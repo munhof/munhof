@@ -16,6 +16,8 @@ Hi! This is my main GitHub repository. Here you can find some of my personal pro
 
 + And some surprises!
 
+Want to know more about me and my journey? Check out my website: Munhof(munhof.com.ar)
+
 ## My current Work
 
 Now i'm currently working on:
@@ -36,9 +38,9 @@ If you wanna contact me you can use the following medios
 
 Feel free to reach out through the following channels:
 
-+ 📧 Email: facundomunho@gmail.com
++ 📧 [Email]( facundomunho@gmail.com): facundomunho@gmail.com
 
-+ 💼 LinkedIn (add your link)
++ 💼 [LinkedIn](https://www.linkedin.com/in/facundomunho/) 
 
 
 
