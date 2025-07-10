@@ -49,5 +49,3 @@ You can view or download my CV here:
 
 - [📄 CV in English (PDF)](https://github.com/munhof/munhof/blob/3bf0690cf41910347d574d6ec86cc1ef8357646c/Munh%C3%B3%20Vital%20Facundo%20Nicolas%20-%20CV%20-%20ES.pdf)
 - [📄 CV en Español (PDF)](https://github.com/munhof/munhof/blob/3bf0690cf41910347d574d6ec86cc1ef8357646c/Munh%C3%B3%20Vital%20Facundo%20Nicolas%20-%20CV%20-%20EN.pdf)
-
--  
