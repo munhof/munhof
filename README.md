@@ -16,7 +16,7 @@ Hi! This is my main GitHub repository. Here you can find some of my personal pro
 
 + And some surprises!
 
-Want to know more about me and my journey? Check out my website: [Munhof](munhof.com.ar)
+Want to know more about me and my journey? Check out my website: Munhof(https://munhof.com.ar)
 
 ## My current Work
 
@@ -40,22 +40,14 @@ Feel free to reach out through the following channels:
 
 + 📧 [Email]( facundomunho@gmail.com): facundomunho@gmail.com
 
-+ 💼 [LinkedIn](https://www.linkedin.com/in/facundomunho/) 
++ 💼 [LinkedIn](https://www.linkedin.com/in/facundomunho/)
 
 
+## 📄 Resume / CV
+
+You can view or download my CV here:
+
+- [📄 CV in English (PDF)](Munhó Vital Facundo Nicolas - CV - ES.pdf)  
+- [📄 CV en Español (PDF)](Munhó Vital Facundo Nicolas - CV - EN.pdf)
 
 -  
-<!--
-**munhof/munhof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
